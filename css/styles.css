@@ -88,6 +88,9 @@ body {
 .person-team-position {
   color: #434455;
 }
+. team-card {
+  background: #ffffff;
+}
 
 /*Our Portfolio*/
 .portfolio-title {
@@ -109,4 +112,8 @@ body {
 
 .footer-slogan {
   color: #f4f4fd;
+}
+
+.portfolio-card {
+  background: #ffffff;
 }
