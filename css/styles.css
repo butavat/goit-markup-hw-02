@@ -15,6 +15,10 @@ button {
 }
 
 /*PAGE HEADER*/
+.body-pages {
+  background: #fff;
+  color: #434455;
+}
 
 /*Navigation*/
 body {
