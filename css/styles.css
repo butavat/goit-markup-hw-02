@@ -1,0 +1,112 @@
+:root {
+  --accent-color: #404bbf;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*PAGE HEADER*/
+
+/*Navigation*/
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.logotype {
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+}
+
+.another-color-text {
+  color: #4d5ae5;
+}
+
+.menu-link {
+  color: #2e2f42;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color: var(--accent-color);
+}
+
+/*Contacts*/
+.contacts-type {
+  font-style: normal;
+  color: #434455;
+}
+
+.contacts-type:hover,
+.contacts-type:focus {
+  color: var(--accent-color);
+}
+
+.page-header {
+  background: #ffffff;
+}
+
+/*HERO SECTION*/
+.main-section {
+  background: #2e2f42;
+}
+.main-section-title {
+  color: #ffffff;
+}
+
+.main-title-button {
+  background: #4d5ae5;
+  color: #ffffff;
+}
+
+/*Features Section*/
+.features-goal {
+  color: #2e2f42;
+}
+
+.feautres-goal-description {
+  color: #434455;
+}
+
+/*Our Team*/
+.team-title {
+  color: #2e2f42;
+}
+
+.person-team {
+  color: #2e2f42;
+}
+
+.person-team-position {
+  color: #434455;
+}
+
+/*Our Portfolio*/
+.portfolio-title {
+  color: #2e2f42;
+}
+
+.portfolio-name {
+  color: #2e2f42;
+}
+
+.portfolio-kind {
+  color: #434455;
+}
+
+/*FOOTER*/
+.footer-section {
+  background: #2e2f42;
+}
+
+.footer-slogan {
+  color: #f4f4fd;
+}
