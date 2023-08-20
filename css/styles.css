@@ -79,7 +79,7 @@ body {
 /*HERO SECTION*/
 .main-section {
   border: 1px solid #000;
-  background: var(--navyblue, #2e2f42);
+  background: #2e2f42;
 }
 .main-section-title {
   color: #ffffff;
@@ -91,13 +91,11 @@ body {
 }
 
 .main-title-button {
-  border-radius: 4px;
   border: 1px solid #000;
-  background: var(--iris, #4d5ae5);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
 
   color: #ffffff;
-  font-family: Roboto;
+  font-family: inherit;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5; /* 150% */
@@ -110,10 +108,6 @@ body {
 }
 
 /*Features Section*/
-.features-section {
-  display: none;
-}
-
 .features-goal {
   color: #2e2f42;
   font-size: 20px;
@@ -202,12 +196,12 @@ body {
 
 /*FOOTER*/
 .footer-section {
-  background: var(--navyblue, #2e2f42);
+  background: #2e2f42;
 }
 
 .secondary-color-text {
   color: #f4f4fd;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16; /* 116.667% */
