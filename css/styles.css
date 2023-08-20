@@ -28,7 +28,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.16;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -38,7 +38,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.16;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -47,7 +47,7 @@ body {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -63,7 +63,7 @@ body {
 .contacts-type {
   color: #434455;
   font-size: 16px;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -119,7 +119,7 @@ body {
 
 /*Our Team*/
 .our-team-part {
-  background: var(--cloud, #f4f4fd);
+  background: #f4f4fd;
 }
 
 .team-title {
@@ -132,7 +132,7 @@ body {
 }
 
 .team-card {
-  background: var(--white, #fff);
+  background: #fff;
 }
 
 .person-team {
@@ -161,9 +161,9 @@ body {
 }
 
 .portfolio-card {
-  border: 1px solid var(--cornflower, #e7e9fc);
   background: #fff;
 }
+
 .portfolio-name {
   color: #2e2f42;
   font-size: 20px;
